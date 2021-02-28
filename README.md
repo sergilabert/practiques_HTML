@@ -1,2 +1,2 @@
-# practiques_HTML
-En aquest repositori realitzaré les pràctiques d'HTML de l'assignatura WebGis.
+# primera-prova-HTML
+Primera prova realitzada amb HTML 
